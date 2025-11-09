@@ -8,13 +8,15 @@ This repository contains the PinTips application for ZeppOS smartwatches. ZeppOS
 
 ## Getting Started
 
-### For Contributors
+### 📤 Want to Upload Your Files?
 
-If you have project files on your PC that you want to upload to this repository, please see [CONTRIBUTING.md](CONTRIBUTING.md) for detailed instructions on how to:
-- Clone the repository
-- Add your files
-- Create a pull request
-- Follow best practices
+**If you have PinTips project files on your PC and want to upload them to this repository:**
+
+- **Quick Start:** See [QUICKSTART.md](QUICKSTART.md) - Get started in 2 minutes!
+- **Detailed Guide:** See [CONTRIBUTING.md](CONTRIBUTING.md) - Step-by-step instructions
+- **Project Structure:** See [PROJECT_STRUCTURE.md](PROJECT_STRUCTURE.md) - How to organize your files
+
+All three methods are covered: Command Line, GitHub Desktop, and Web Upload.
 
 ### Project Structure
 
