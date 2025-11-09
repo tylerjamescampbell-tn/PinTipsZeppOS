@@ -25,7 +25,15 @@ git checkout -b add-project-files
 ```
 
 #### 3. Copy Your Files
-Copy your project files from your PC into the cloned repository directory. Typical ZeppOS project structure might include:
+Copy your project files from your PC into the cloned repository directory.
+
+**Where to copy:** After running the commands above, you'll be in the `PinTipsZeppOS` directory. This is where you copy your files.
+
+**How to find the location:**
+- **Command Line:** Run `pwd` (Mac/Linux) or `cd` (Windows) to see the full path
+- **File Explorer:** Navigate to the location where you cloned the repo
+
+Copy all your project files into this directory. Typical ZeppOS project structure might include:
 ```
 PinTipsZeppOS/
 ├── app.js                  # Main application file

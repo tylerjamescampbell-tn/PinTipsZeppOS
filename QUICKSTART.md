@@ -14,8 +14,12 @@ cd PinTipsZeppOS
 # 2. Create a new branch
 git checkout -b add-my-files
 
-# 3. Copy your files into this directory
-# (Use your file explorer or cp/xcopy commands)
+# 3. Copy your files into the cloned directory
+# You are now in: /path/to/PinTipsZeppOS/
+# Copy your files here using:
+#   - File Explorer/Finder: Navigate to this folder and paste
+#   - Command: cp -r /path/to/your/files/* .
+#   - Windows: xcopy /E /I C:\path\to\your\files\* .
 
 # 4. Add all files to git
 git add .
@@ -34,6 +38,8 @@ git push origin add-my-files
 1. Download and install [GitHub Desktop](https://desktop.github.com/)
 2. Clone `tylerjamescampbell-tn/PinTipsZeppOS`
 3. Copy your files into the local repository folder
+   - GitHub Desktop shows the folder location (click "Show in Explorer/Finder")
+   - Copy/paste your project files into this folder
 4. In GitHub Desktop: Review changes → Commit → Push
 5. Create Pull Request on GitHub
 
